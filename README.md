@@ -5,10 +5,16 @@ and I'm not leaving without the giant stuffed [Monkey](https://monkeylang.org/#w
 
 pledge to update this readme daily as a sort of diary to track progress/stay motivated. Each entry will look like:
 
-```md
+```
 - date 
 - what I did 
 - what questions I have
 ```
 
 ## Diary
+
+```
+- 6/21/2026
+- 
+- 
+```
